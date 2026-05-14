@@ -17,7 +17,7 @@ To develop the data science and computational skills for space research and anal
 
 | # | Project | Skills Introduced | Dataset |
 |---|---------|-------------------|---------|
-| 01 | [Planet Explorer](./01-planet-explorer/) | pandas basics, EDA, matplotlib, feature engineering | NASA Planetary Fact Sheet |
+| 01 | [Planet Analysis](./01-planet-analysis/) | pandas basics, EDA, matplotlib, feature engineering | NASA Planetary Fact Sheet |
 | 02 | Asteroid Explorer | Data cleaning, `.groupby()`, `.merge()`, correlation heatmaps | NASA Asteroids — Kaggle |
 | 03 | Exoplanet Explorer | Multi-variable scatter plots, colormaps, log scaling | NASA Exoplanet Archive |
 | 04 | Hipparcos H-R Diagram | FITS-adjacent data, absolute magnitude, parallax | Hipparcos Catalog |
