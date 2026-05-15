@@ -1,10 +1,10 @@
 # Space Data Projects
 
-A progressive series of Python data science projects exploring real NASA and ESA datasets. These projects cover planetary science, asteroid classification, and exoplanet analysis.
+A progressive series of Python data science projects working toward Gaia DR3 stellar classification. Built as a self-study portfolio over Summer 2026, each project builds on the skills of the last.
 
 ## Goal
 
-To develop the data science and computational skills needed for space research and analysis, with each project building toward a Gaia DR3 stellar classification project.
+To develop the data science and computational skills for space research and analysis.
 
 ## Stack
 
@@ -22,8 +22,9 @@ To develop the data science and computational skills needed for space research a
 | 03 | Exoplanet Explorer | Multi-variable scatter plots, colormaps, log scaling | NASA Exoplanet Archive |
 | 04 | Hipparcos H-R Diagram | FITS-adjacent data, absolute magnitude, parallax | Hipparcos Catalog |
 | 05 | Asteroid Hazard Classification | scikit-learn pipeline, Random Forest, confusion matrix | NASA Nearest Earth Objects |
+| 06 | Gaia Stellar Classification | astroquery, Gaia DR3, full ML classification pipeline | Gaia DR3 |
 
-Projects 02–05 will be added as they are completed.
+Projects 02–06 will be added as they are completed.
 
 ## How This Repo is Organized
 
